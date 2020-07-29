@@ -2,7 +2,7 @@
 A shell script that takes a csv file and converts it to a json file
 
 Run Terminal 
-Usage(in terminal): ./csv2json.sh input.csv > output_name.json  
+Usage(in terminal): ./csv2json.sh input.csv > output.json  
 
 
 ### INSTRUCTIONS:  
